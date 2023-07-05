@@ -26,7 +26,7 @@ function Home() {
         <Banner2/>
         <HomeTabs/>
         <Banner3/>
-        <Threecol/>
+        {/* <Threecol/> */}
         <Banner4/>
         <WelcomeToBeautyProducts/>
         {/* <Footer/> */}
