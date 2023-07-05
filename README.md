@@ -13,7 +13,7 @@
 > React,Redux,Javascript,NodeJs,Express,MongoDB,ChakraUI,HTML, CSS and API
 
 ## Demo Link
-  - [https://tourmaline-gingersnap-06dea8.netlify.app/)
+  - https://clinquant-semifreddo-8e54b8.netlify.app/
 ## Images
 - Home page
 
