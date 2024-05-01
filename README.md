@@ -17,7 +17,8 @@
 ## Images
 - Home page
 
-  ![image](https://github.com/shivamgupta8482/indegogoclone/blob/master/images/Homepage.png)
+  ![Screenshot (959)](https://github.com/imran120198/boss-development-1619/assets/99397606/3fae797c-1a7c-4935-9e19-a20332a36bf5)
+
  
 - Navbar
   
