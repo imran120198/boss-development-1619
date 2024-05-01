@@ -20,21 +20,20 @@
   ![Screenshot (959)](https://github.com/imran120198/boss-development-1619/assets/99397606/3fae797c-1a7c-4935-9e19-a20332a36bf5)
 
  
-- Navbar
-  
-  ![image](https://github.com/shivamgupta8482/nemconstructweek/blob/master/frontend/src/Assets/navbar.png)
- 
 - Product page
  
-  ![image](https://github.com/shivamgupta8482/indegogoclone/blob/master/images/Productpage.png)
+ ![Screenshot (960)](https://github.com/imran120198/boss-development-1619/assets/99397606/06702eb2-fb87-478f-88bb-d76e86602f23)
+
  
 - Singleproduct page
  
-  ![image](https://github.com/shivamgupta8482/indegogoclone/blob/master/images/SingleProductpage.png)
+  ![Screenshot (961)](https://github.com/imran120198/boss-development-1619/assets/99397606/a6ac1cdb-2f09-4a81-8d7a-72256d2be3ef)
+
   
   - Signup page
  
-  ![image](https://github.com/shivamgupta8482/indegogoclone/blob/master/images/Signup.png)
+  ![Screenshot (962)](https://github.com/imran120198/boss-development-1619/assets/99397606/b60cf862-ac08-4680-a95d-957951fb253e)
+
 
 ## Authors
 - [@Shivam Gupta](https://github.com/shivamgupta8482)
