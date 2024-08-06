@@ -13,7 +13,7 @@
 > React,Redux,Javascript,NodeJs,Express,MongoDB,ChakraUI,HTML, CSS and API
 
 ## Demo Link
-  - https://clinquant-semifreddo-8e54b8.netlify.app/
+  - https://imaginative-baklava-6cdda4.netlify.app/
 ## Images
 - Home page
 
